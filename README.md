@@ -98,8 +98,8 @@ I'm open to:
 
 📬 **Reach out to me via**:  
 - [LinkedIn](www.linkedin.com/in/ebenezer-attipoe)   
-- [Email](mailto:eben.devjourney@email.com)
-
+- [Email](mailto:ebenezerattipoe89@gmail.com)
+- [WhatsApp](https://wa.me/+233534577480)
 ---
 
 
