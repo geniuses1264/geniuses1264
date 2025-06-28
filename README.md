@@ -50,35 +50,6 @@ I'm open to:
 - 🛠 Collaborating on tech-for-good tools
 - 📚 Learning with peers in the developer community
 
-<p align="center">
-  <i>A passionate Front-End Developer | Lifelong Learner | Future Full-Stack Engineer</i>
-</p>
-
----
-
-## 💡 About Me
-
-🎓 I’m currently a learner in the <strong>ALX Front-End Development Program</strong>, building a solid foundation in software engineering and web technologies.  
-
-🌱 I'm deeply passionate about using code to create accessible learning tools that empower graduates whose skills don’t match current industry demands — especially in the tech space.  
-
-🚀 My long-term goal: to become a proficient <strong>Full-Stack Developer</strong> in the next 2 years and launch a mobile & web-based offline learning app focused on practical, industry-aligned tech skills.
-
----
-
-## 🔨 Projects I'm Working On
-
-- 🌐 **AirBnB Clone (Full-Stack Project)**  
-  A booking platform built from scratch using HTML, CSS, JavaScript, and Python Flask (backend coming soon).
-
-- 📱 **Offline Learning App (In Progress)**  
-  A mobile/web app targeting graduates with underutilized tech potential. It delivers offline tech skill content to help them upskill for the job market.
-
-- ✨ **Personal Portfolio Website**  
-  A creative digital space to showcase my growth, work, and story. Designed with accessibility and animation in mind.
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
